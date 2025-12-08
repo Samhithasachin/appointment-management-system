@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "username": "doctor@email.com",
+      "password": "password",
+      "name": "Dr. Admin"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "a_miv22wpl5ljj5h",
+      "patientName": "Carlos Palmer",
+      "doctor": "Dolor dolorem dolore",
+      "date": "1997-08-05",
+      "time": "20:24",
+      "status": "scheduled",
+      "notes": ""
+    },
+    {
+      "id": "a_miv237pfev5kwt",
+      "patientName": "Shea Bentley",
+      "doctor": "Est enim commodi do",
+      "date": "1994-02-14",
+      "time": "00:41",
+      "status": "completed",
+      "notes": ""
+    },
+    {
+      "id": "a_miv23ilkbxm4su",
+      "patientName": "Josephine Mckinney",
+      "doctor": "Dolores sint incidun",
+      "date": "1982-09-02",
+      "time": "21:18",
+      "status": "completed",
+      "notes": ""
+    },
+    {
+      "id": "a_miv23se9ngumgo",
+      "patientName": "Fuller Meyer",
+      "doctor": "Explicabo Voluptatu",
+      "date": "2012-07-12",
+      "time": "09:04",
+      "status": "scheduled",
+      "notes": ""
+    },
+    {
+      "id": "a_miv242xitv04e5",
+      "patientName": "Lucas Richard",
+      "doctor": "Ut mollitia libero d",
+      "date": "2024-05-18",
+      "time": "17:45",
+      "status": "scheduled",
+      "notes": ""
+    },
+    {
+      "id": "a_miv24vzft5ax2z",
+      "patientName": "Brady Joyce",
+      "doctor": "Possimus magna tota",
+      "date": "1994-07-29",
+      "time": "22:56",
+      "status": "scheduled",
+      "notes": ""
+    },
+    {
+      "id": "a_miv25twqv1zsy4",
+      "patientName": "Sonya Newman",
+      "doctor": "Iure ad voluptatem e",
+      "date": "1981-12-05",
+      "time": "11:41",
+      "status": "completed",
+      "notes": ""
+    },
+    {
+      "id": "a_miv26rtwz0ahzk",
+      "patientName": "Harlan Crawford",
+      "doctor": "Elit ut odit ullam ",
+      "date": "1997-11-11",
+      "time": "18:38",
+      "status": "completed",
+      "notes": ""
+    },
+    {
+      "id": "a_miwdtof0w2teu3",
+      "patientName": "Lisandra Shepherd",
+      "doctor": "Nam laborum sequi fu",
+      "date": "1983-03-10",
+      "time": "04:01",
+      "status": "scheduled",
+      "notes": ""
+    },
+    {
+      "id": "a_miwdu3uf8vw8af",
+      "patientName": "Amethyst Webster",
+      "doctor": "Eveniet et est ven",
+      "date": "2024-09-06",
+      "time": "18:31",
+      "status": "completed",
+      "notes": ""
+    },
+    {
+      "id": "a_miwdulq10bpch7",
+      "patientName": "Whoopi Morris",
+      "doctor": "Quis do voluptatem ",
+      "date": "2010-07-17",
+      "time": "19:08",
+      "status": "completed",
+      "notes": ""
+    }
+  ]
+}
