@@ -61,7 +61,7 @@ Assumptions:
   "time": "",
   "status": "scheduled"
 }
-- Filtering supports only doctor and status. Search is performed on patient name only.
+- Filtering supports only doctor and status. Search is performed on patient name and doctor name only.
 - Limited UI/UX
 
 Limitations:
