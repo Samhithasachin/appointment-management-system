@@ -46,7 +46,7 @@ export default function AppointmentForm({ initial, onSubmit }) {
                             required
                         /></div>
                     <div className="mb-3">
-                        <label className="form-label">Patient Name</label>
+                        <label className="form-label">Doctor Name</label>
                         <input
                             className="form-control"
                             name="doctor"
