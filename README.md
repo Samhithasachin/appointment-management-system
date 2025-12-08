@@ -26,6 +26,7 @@ Backend Setup
    - npm install
 2. Run backend
   - npm start
+    
 API runs at:  http://localhost:4000
 
 Frontend Setup
